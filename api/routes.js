@@ -5,7 +5,7 @@ const router = express.Router();
 
 router.get('/', controllers.hello);
 
-// write your routes
+router.post('/addFilm',controllers.addFilm);
 
 
 module.exports = router;

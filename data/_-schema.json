@@ -1,0 +1,9 @@
+{
+    "idFilm":"Number",
+    "title":"String",
+    "duration":"Number",
+    "description":"String",
+    "link":"url",
+    "budget":"Number",
+    "required":["idFilm","title"]
+}
